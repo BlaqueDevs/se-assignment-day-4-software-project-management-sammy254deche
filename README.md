@@ -152,10 +152,6 @@ To ensure that deadlines are met, project managers can take several proactive st
 - **Government Contracts**: Large-scale government projects, such as defense systems or public infrastructure, often use Waterfall due to strict requirements and documentation needs.
 - **Manufacturing Processes**: Developing a new product in the manufacturing industry, where each stage (design, prototype, production) follows a sequential process and alterations mid-way can lead to significant costs.
 
-### Key Points
-- **Agile** is more suitable for projects that need flexibility, client involvement, and rapid delivery. It's excellent for environments where requirements can evolve and change frequently.
-- **Waterfall** is ideal for projects with clear, unchanging requirements, and where each phase needs to be completed before moving to the next. It's suitable for industries with strict regulations and where thorough documentation is critical.
-
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
