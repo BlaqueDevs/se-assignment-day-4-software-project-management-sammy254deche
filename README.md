@@ -293,6 +293,47 @@ Let's consider a software development project to illustrate a WBS:
    - Potential risks and bottlenecks can be identified by analyzing the sequence and duration of tasks.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
+The specific core issues that software aims to address can vary depending on the type of software and its intended use. However, here are some general examples of core issues that software might target and why these problems are significant to the target audience:
+
+### Core Issues and Significance
+
+1. **Efficiency and Productivity**:
+   - **Issue**: Manual processes and repetitive tasks can be time-consuming and prone to errors.
+   - **Significance**: By automating these processes, software can significantly improve efficiency and productivity, saving time and reducing human error.
+
+2. **Data Management**:
+   - **Issue**: Managing large volumes of data manually can be challenging, leading to data loss or inaccuracies.
+   - **Significance**: Software solutions can provide robust data management capabilities, ensuring data integrity, easy access, and better decision-making.
+
+3. **Communication and Collaboration**:
+   - **Issue**: Poor communication and collaboration can hinder teamwork and project success.
+   - **Significance**: Collaboration tools and communication platforms enhance team coordination, streamline workflows, and improve overall productivity.
+
+4. **Customer Relationship Management (CRM)**:
+   - **Issue**: Inefficient management of customer interactions can lead to lost opportunities and decreased customer satisfaction.
+   - **Significance**: CRM software helps businesses manage customer relationships effectively, leading to increased sales, better customer service, and higher retention rates.
+
+5. **Security and Privacy**:
+   - **Issue**: Cybersecurity threats and data breaches can compromise sensitive information and harm an organization's reputation.
+   - **Significance**: Security software protects against threats, ensuring data privacy and compliance with regulations, thereby building trust with clients and stakeholders.
+
+6. **Financial Management**:
+   - **Issue**: Manual financial processes can be error-prone and time-consuming, leading to financial mismanagement.
+   - **Significance**: Financial management software automates accounting, budgeting, and reporting, providing accurate financial insights and improving financial decision-making.
+
+7. **User Experience (UX)**:
+   - **Issue**: Poorly designed interfaces and complex user experiences can frustrate users and reduce software adoption.
+   - **Significance**: Software that prioritizes UX design enhances user satisfaction, increases adoption rates, and improves overall usability.
+
+8. **Scalability**:
+   - **Issue**: As businesses grow, their software needs may change, requiring scalable solutions.
+   - **Significance**: Scalable software can adapt to growing business needs, ensuring continued efficiency and performance without the need for frequent replacements.
+
+9. **Compliance and Reporting**:
+   - **Issue**: Keeping up with regulatory requirements and generating accurate reports can be challenging.
+   - **Significance**: Compliance and reporting software ensures adherence to regulations and provides easy-to-generate, accurate reports, reducing the risk of non-compliance penalties.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
